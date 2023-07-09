@@ -3,13 +3,15 @@
 
 <hr>
 
-HOW TO USE IT? 
+<strong> HOW TO USE IT? </strong>
 
 1. Run the program/code
 2. Select an image from any folder
 3. As a result first you will get input image
 4. After selecting any key on keyboard you will get output image (the one with cartoon effect)
-(if needed) Rerun the program to select other image.
+   
+<i> (if needed) </i> Rerun the program to select other image.
+
 Ex.
 
 <i> Input image: </i>
