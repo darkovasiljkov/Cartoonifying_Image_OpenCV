@@ -1,7 +1,9 @@
 # Cartoonifying_Image_OpenCV
-This program works using Python + OpenCV library. It converts digital image to cartoon image. (Cartoonifying Image Effect)
+<b> This program works using Python + OpenCV library. It converts digital image to cartoon image. (Cartoonifying Image Effect) </b>
 
-How to use it?
+<hr>
+
+HOW TO USE IT? 
 
 1. Run the program/code
 2. Select an image from any folder
@@ -10,10 +12,11 @@ How to use it?
 (if needed) Rerun the program to select other image.
 Ex.
 
-Input image: 
+<i> Input image: </i>
+
 ![Screenshot_3](https://github.com/darkovasiljkov/Cartoonifying_Image_OpenCV/assets/93830641/61139d47-ca02-4d87-b096-a35a1c1301ed)
 
 
-Output image:
+<i> Output image: </i>
 
 ![Screenshot_2](https://github.com/darkovasiljkov/Cartoonifying_Image_OpenCV/assets/93830641/40800b77-d78f-4ad0-8e14-3a37d960b1d3)
