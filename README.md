@@ -1,5 +1,5 @@
 # Cartoonifying_Image_OpenCV
-<b> This program works using Python + OpenCV library. It converts digital image to cartoon image. (Cartoonifying Image Effect) </b>
+<b> As a CS student, this was my final project for subject called *Digital Processing of an image*. The program works using Python + OpenCV library. It converts digital image to cartoon image. (Cartoonifying Image Effect) </b>
 
 <hr>
 
